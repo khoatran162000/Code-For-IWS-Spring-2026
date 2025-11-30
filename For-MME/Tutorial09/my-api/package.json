@@ -1,0 +1,15 @@
+{
+  "name": "my-api",
+  "version": "1.0.0",
+  "description": "My first Express server",
+  "license": "ISC",
+  "author": "Tran Ngoc Khoa",
+  "type": "commonjs",
+  "main": "server.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "dependencies": {
+    "express": "^5.1.0"
+  }
+}
